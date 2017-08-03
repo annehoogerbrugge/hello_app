@@ -9,6 +9,9 @@
 
 Hi there! Welcome to Cloud9 IDE!
 
+# haha
+## "wat zijn we aan het doen"
+
 This Cloud9 system is designed to be used with the [Ruby on Rails Tutorial](http://www.railstutorial.org/) by Michael Hartl. Full setup instructions can be found for free online in the [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
 
 For more information on how to use Cloud9, visit http://docs.c9.io for our documentation. If you want, you can also go watch some training videos at
